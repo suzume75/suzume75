@@ -35,6 +35,7 @@ I'm currently working on projects that combine **beautiful UIs** with **smart fu
 - 🛠️ Backend basics with Node.js and Express
 - 🧠 AI agent frameworks and architecture
 - 📘 How to write clean, documented code
+- 📚 How to use Tailwind CSS
 
 
 
